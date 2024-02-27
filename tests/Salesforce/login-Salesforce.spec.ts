@@ -15,7 +15,7 @@ test('test', async ({ page, request }) => {
   await page.getByPlaceholder('Search...').fill('901045300');
   await page.getByPlaceholder('Search...').press('Enter');
   //Verify Details
-  await expect(page.locator)
+  //await expect(page.locator)
   //Verify Members Plan
 
   //Verify Relationship
