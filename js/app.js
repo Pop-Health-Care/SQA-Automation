@@ -1,2 +1,2 @@
-var greeting = 'Hello TypeScript';
-console.log(greeting);
+var movieTitle = 'A New Hope';
+console.log("Movie title: ".concat(movieTitle));
